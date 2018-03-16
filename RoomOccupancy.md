@@ -1,7 +1,5 @@
-# Show Accessible Accounts
+# Show Occupancy status for all rooms
 
-Show all Accounts the active User can access and with what permission level.
-Includes their own Account if they have one.
 
 **URL** : `/RoomOccupancy/`
 
