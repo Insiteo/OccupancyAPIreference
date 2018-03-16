@@ -1,7 +1,4 @@
-# Show Accessible Accounts
-
-Show all Accounts the active User can access and with what permission level.
-Includes their own Account if they have one.
+# Show detailed occupancy status for all Busy rooms
 
 **URL** : `/RoomStatus/`
 
