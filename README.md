@@ -13,4 +13,4 @@ Each endpoint provides real-time status of Rooms for the requested account:
 * [Show all rooms' occupancy information](RoomOccupancy.md) : `GET /RoomOccupancy/`
 * [Show detailed information about busy rooms](RoomStatus.md) : `GET /RoomStatus/`
 * [Show detailed information about busy rooms for a given Site](RoomStatus.md) : `GET /RoomsStatusForSite/{SiteID}/`
-* [Get a device's location by its anonymous ID](GetUserInfo.md) : `GET /GetUserInfo/`
+* [Get a device's location by its anonymous ID](GetUserInfo.md) : `GET /GetUserInfo/{UserID}/`
