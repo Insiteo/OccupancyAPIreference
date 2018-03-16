@@ -38,7 +38,8 @@ Includes their own Account if they have one.
       {
         "CommonKey":"CommonKey-1",
         "IsBusy":false,
-        "NbPhysicalUsers":0,"RoomName":"Room1"
+        "NbPhysicalUsers":0,
+        "RoomName":"Room1"
       },
       {
         "CommonKey":"CommonKey-2",
